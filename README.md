@@ -6,7 +6,7 @@ Hi there 👋 Chelo Riveros here
 
 ### What do i do
 
-I work is MACH as a Senior Backend Software Engineer 💻.  
+I work in MACH as a Senior Backend Software Engineer 💻.  
 Passionate about creating efficient, scalable and high performance 🛠.  
 I love to develop great UX and DX solutions 🔮.  
 In my free time i play videogames and sports ⚽🥎🚴‍♀️🏇.  
