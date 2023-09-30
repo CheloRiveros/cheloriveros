@@ -24,6 +24,8 @@ Would like to learn astronomy 🔭.
 - Elixir
 - Angular
 
+![](https://komarev.com/ghpvc/?username=cheloriveros&color=blueviolet)
+
 ### Links
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cheloriveros)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marceloriveros/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/cheloriveross/) 
 
@@ -32,5 +34,3 @@ Would like to learn astronomy 🔭.
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CheloRiveros&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CheloRiveros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile views](https://gpvc.arturio.dev/cheloriveros) 
